@@ -422,7 +422,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 
 <a name="anc-input"></a>
 <a name="1.2.13"></a>
-### 1.2.13 Input ![#](https://img.shields.io/badge/lint-supported-green.svg)
+### 1.2.13 Input ![#](https://img.shields.io/badge/lint-unsupported-red.svg)
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
