@@ -213,6 +213,8 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 
 > 1.2.13 [Input](#anc-input)
 
+> 1.2.14 [Gameplay Ability System](#anc-gas)
+
 <a name="anc-common"></a>
 <a name="1.2.1"></a>
 #### 1.2.1 Most Common ![#](https://img.shields.io/badge/lint-partial_support-yellow.svg)
@@ -424,6 +426,17 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Input Mapping Context   | IM_        |            | Enhanced Input                   |
 | Input Action            | IA_        |            | Enhanced Input                   |
+
+<a name="anc-gas"></a>
+<a name="1.2.14"></a>
+### 1.2.14 Gameplay Ability System ![#](https://img.shields.io/badge/lint-unsupported-red.svg)
+
+| Asset Type              | Prefix     | Suffix     | Notes                            |
+| ----------------------- | ---------- | ---------- | -------------------------------- |
+| Gameplay Ability        | GA_        |            |                                  |
+| Gameplay Effect         | GE_        |            |                                  |
+| Gameplay Cue            | GC_        |            |                                  |
+
 
 **[⬆ Back to Top](#table-of-contents)**
 
